@@ -21,7 +21,7 @@ The base code can be found at this link: https://snack.expo.dev/@linxsystems/tec
 - [ ] **Req 5**: Display the Upload and Cancel buttons along the same row (instead of column).
 
 
-Create an https://expo.dev/ account and save the base code to your account. Email the expo link of your solution to careers@linxsystems.com
+Create an https://expo.dev/ account and save your changes to the base code with your account. Email the expo url of your solution to careers@linxsystems.com
 
 
 **Do not post your answer here.**
