@@ -3,11 +3,11 @@ Hello and welcome to the Linx Systems hiring process!
 
 ## The Process
 - [x] Send in resume
-- [] Complete Technical 1
-- [] Complete Short Questionnaire
-- [] Video or in-person interview
-- [] Complete Technical 2
-- [] Hired
+- [ ] Complete Technical 1
+- [ ] Complete Short Questionnaire
+- [ ] Video or in-person interview
+- [ ] Complete Technical 2
+- [ ] Hired
 
 ## Step 1: Send in Resume
 Hopefully you have already done this. If not, please email it to careers@linxsystems.com. We use your resume to get an idea of you education, skills, and previous experience.
