@@ -7,6 +7,6 @@ Here is how to use the decoder:
 3. There will also be an encoded message. In order to decode the message, you must replace each letter from the encoded message with new letters found on the decoder ring. For example, if the encoded message was ZNYX, the decoded message would be CODE (Z → C, N → O, Y → D, X → E).
 
 <p style="text-align: center">
-  <img alt="decoder" src="./assets/Decoder.jpg"/>
+  <img alt="decoder" src="./assets/Decoder.jpg" style="max-width: 300px; max-height: 300px"/>
 </p>
 
