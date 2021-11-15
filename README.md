@@ -18,8 +18,8 @@ We ask that all applicants complete an initial technical challenge. We expect th
 Please complete the relevant section and follow the instructions within your challenge for how to submit your answer.
 
 - [Mobile Developer](https://www.google.com)
-- [Backend Developer](https://www.google.com)
-- [Farm API Developer](https://www.google.com)
+- [Backend Developer](Technical_1_Backend.md)
+- [Farm API Developer](Technical_1_Backend.md)
 
 ## Step 3: Short Questionnaire
 Upon a successful submission of the Technical 1 challenge, you will receive a short list of questions so that we can get to know you a little better.
