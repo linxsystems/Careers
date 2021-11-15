@@ -19,7 +19,7 @@ Please complete the relevant section for the job you are applying for and follow
 
 - [Mobile App Developer](Technical_1_Mobile.md)
 - [Backend Developer](Technical_1_Backend.md)
-- [Farm Management App Developer](Technical_1_Backend.md)
+- [Farm Management App Developer](Technical_1_Farm_Management_App_Developer.md)
 
 ## Step 3: Short Questionnaire
 Upon a successful submission of the Technical 1 challenge, you will receive a short list of questions so that we can get to know you a little better.
