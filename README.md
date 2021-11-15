@@ -10,7 +10,7 @@ Hello and welcome to the Linx Systems hiring process!
 - [ ] Hired
 
 ## Step 1: Send in Resume
-Hopefully you have already done this. If not, please email it to careers@linxsystems.com. We use your resume to get an idea of you education, skills, and previous experience.
+Hopefully you have already done this. If not, please email it to careers@linxsystems.com. We use your resume to get an idea of your education, skills, and previous experience.
 
 ## Step 2: Technical 1
 We ask that all applicants complete an initial technical challenge. We expect this to take around 20-30 minutes. For starters, this weeds out the resume spammers and saves us time. Secondly, we'll have another item to talk to you about during the interview. And lastly, we hope that you have fun with your challenge. Our development team enjoyed putting these challenges together for you and we look forward to seeing your response!
