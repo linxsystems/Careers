@@ -15,11 +15,11 @@ Hopefully you have already done this. If not, please email it to careers@linxsys
 ## Step 2: Technical 1
 We ask that all applicants complete an initial technical challenge. We expect this to take around 20-30 minutes. For starters, this weeds out the resume spammers and saves us time. Secondly, we'll have another item to talk to you about during the interview. And lastly, we hope that you have fun with your challenge. Our development team enjoyed putting these challenges together for you and we look forward to seeing your response!
 
-Please complete the relevant section and follow the instructions within your challenge for how to submit your answer.
+Please complete the relevant section for the job you are applying for and follow the instructions within your challenge for how to submit your answer.
 
-- [Mobile Developer](Technical_1_Mobile.md)
+- [Mobile App Developer](Technical_1_Mobile.md)
 - [Backend Developer](Technical_1_Backend.md)
-- [Farm API Developer](Technical_1_Backend.md)
+- [Farm Management App Developer](Technical_1_Backend.md)
 
 ## Step 3: Short Questionnaire
 Upon a successful submission of the Technical 1 challenge, you will receive a short list of questions so that we can get to know you a little better.
