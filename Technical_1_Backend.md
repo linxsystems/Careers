@@ -17,6 +17,7 @@ Your task is to write a python function that accepts 3 parameters: **cipher_1**,
 ```python
 def decode_message(cipher_1, cipher_2, encoded_message):
   # Your code goes here
+  
   decoded_message = ""
   return decoded_message
 ```
@@ -30,7 +31,7 @@ def decode_message(cipher_1, cipher_2, encoded_message):
 ## Next Steps
 If at any point you get stuck, have any questions, or wish to submit an unfinished solution, please email careers@linxsystems.com and make the subject line “Backend Tech #1 Help”. If this is the case, send us your code by creating a secret gist (https://gist.github.com) and send us the link. We also encourage you to explain your thought process throughout this exercise.
 
-We encourage you to test your code, referencing the image above to see if your code is working or not. Once you believe you have a working solution, you can put it to the test with the encoded messages below:
+We encourage you to test your code, referencing the image above to see if your code is working or not. Once you believe you have a working solution, you can put it to the test with the encoded messages below. Follow the instructions to discover your next steps in the hiring process:
 
 #### Message #1
 - Cipher: B = E
