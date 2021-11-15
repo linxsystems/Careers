@@ -24,8 +24,6 @@ The base code can be found at this link: https://snack.expo.dev/@linxsystems/tec
 Create an https://expo.dev/ account and save your changes to the base code with your account. Email the expo url of your solution to careers@linxsystems.com
 
 ## Next Steps
-If at any point you get stuck, have any questions, or wish to submit an unfinished solution, please email careers@linxsystems.com and make the subject line “Backend Tech #1 Help”. If this is the case, send us your code by creating a secret gist (https://gist.github.com) and send us the link. We also encourage you to explain your thought process throughout this exercise.
-
-We encourage you to test your code, referencing the image above to see if your code is working or not. Once you believe you have a working solution, you can put it to the test with the encoded messages below. Copy and paste these encoded messages and plug them into your function. Then follow the instructions to discover your next steps in the hiring process:
+If at any point you get stuck, have any questions, or wish to submit an unfinished solution, please email careers@linxsystems.com and make the subject line “Mobile Tech #1 Help” and send us your expo code url. We also encourage you to explain your thought process throughout this exercise.
 
 **Do not post your answer here.**
