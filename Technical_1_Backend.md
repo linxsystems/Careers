@@ -1,5 +1,5 @@
 # Technical 1 - Backend
-Congratulations! You have progressed to our technical #1 challenge. In this challenge, your task is to code-ify the decoder ring shown below. The decoder ring is a tool that allows you to decode secret encoded messages. In order to read a secret message, you will need two things: a cipher and an encoded message.
+Congratulations! You have progressed to our technical #1 challenge. In this challenge, your task is to code-ify the decoder ring shown below. The decoder ring is a tool that allows you to decode secret encoded messages. In order to read a secret message, you will need two things: **a cipher** and an **encoded message**.
 
 Here is how to use the decoder:
 1. Place the inner ring inside of the outer ring
