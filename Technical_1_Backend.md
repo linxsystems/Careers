@@ -16,9 +16,9 @@ Your task is to write a python function that accepts 3 parameters: **cipher_1**,
 
 ```python
 def decode_message(cipher_1, cipher_2, encoded_message):
+  decoded_message = ""
   # Your code goes here
   
-  decoded_message = ""
   return decoded_message
 ```
 
