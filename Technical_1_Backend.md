@@ -12,10 +12,10 @@ Congratulations! You have progressed to our technical #1 challenge. In this chal
 </p>
 
 ## Your task
-Your task is to write a python function that accepts 3 parameters: **cipher_1**, **cipher_2**, and **encoded_message**. The function should then return a **decoded_message** based on the ruleset described above. Once you have built your code-ified decoder ring, you will use it to help discover the next steps in our hiring process. Here is a piece of code you can copy to get you started:
+Your task is to write a python function that accepts 3 parameters: **cipher_letter_1**, **cipher_letter_2**, and **encoded_message**. In the example given above, cipher_letter_1 = E, cipher_letter_2 = X, and encoded_message = ZNYX. The function should then return a **decoded_message** based on the ruleset described above. In the example given above, the returned decoded_message would be "CODE". Once you have built your code-ified decoder ring, you will use it to help discover the next steps in our hiring process. Here is a piece of code you can copy to get you started:
 
 ```python
-def decode_message(cipher_1, cipher_2, encoded_message):
+def decode_message(cipher_letter_1, cipher_letter_2, encoded_message):
   decoded_message = ""
   # Your code goes here
   
