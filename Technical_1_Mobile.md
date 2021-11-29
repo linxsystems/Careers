@@ -18,7 +18,7 @@ Your task is to write a javascript function that accepts 3 parameters: **cipher_
 ```javascript
 function decode_message(cipher_letter_1, cipher_letter_2, encoded_message) {
   decoded_message = "";
-  # Your code goes here
+  // Your code goes here
   
   return decoded_message;
 }
