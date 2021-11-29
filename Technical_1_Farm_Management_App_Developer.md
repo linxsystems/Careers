@@ -39,5 +39,5 @@ We encourage you to test your code, referencing the image above to see if your c
 
 #### Message #2
 - Cipher: ?
-- Encoded Message: Nf af amp kfs ilbalgn vfz tcp teeivlgn ofc fg fzc xpsblap (maaeb://ilgwbvbaphb.rfh/rtcppcb/3). Fgrp vfz tcp fg amp kfs ilbalgn etnp, rilrj tgvxmpcp fg amp etnp tgq avep lg "lxtgatkfs".
+- Encoded Message: Nf af amp kfs ilbalgn vfz tcp teeivlgn ofc fg fzc xpsblap (maaeb://ilgwbvbaphb.rfh/rtcppcb/6). Fgrp vfz tcp fg amp kfs ilbalgn etnp, rilrj tgvxmpcp fg amp etnp tgq avep lg "lxtgatkfs".
 
