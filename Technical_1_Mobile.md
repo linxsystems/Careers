@@ -17,7 +17,7 @@ Your task is to write a javascript function that accepts 3 parameters: **cipher_
 
 ```javascript
 function decode_message(cipher_letter_1, cipher_letter_2, encoded_message) {
-  let decoded_message = "";
+  decoded_message = "";
   // Your code goes here
   
   return decoded_message;
@@ -41,5 +41,5 @@ We encourage you to test your code, referencing the image above to see if your c
 
 #### Message #2
 - Cipher: ?
-- Encoded Message: Nf af amp kfs ilbalgn vfz tcp teeivlgn ofc fg fzc xpsblap (maaeb://ilgwbvbaphb.rfh/rtcppcb/2). Fgrp vfz tcp fg amp kfs ilbalgn etnp, rilrj tgvxmpcp fg amp etnp tgq avep lg "lxtgatkfs".
+- Encoded Message: Nf af amp kfs ilbalgn vfz tcp teeivlgn ofc fg fzc xpsblap (maaeb://ilgwbvbaphb.rfh/rtcppcb/5). Fgrp vfz tcp fg amp kfs ilbalgn etnp, rilrj tgvxmpcp fg amp etnp tgq avep lg "lxtgatkfs".
 
