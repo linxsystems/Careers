@@ -17,7 +17,7 @@ We ask that all applicants complete an initial technical challenge. We expect th
 
 Please complete the relevant section for the job you are applying for and follow the instructions within your challenge for how to submit your answer.
 
-- [Mobile App Developer](Technical_1_Mobile.md)
+- [Mobile Frontend Developer](Technical_1_Mobile.md)
 - [Backend Developer](Technical_1_Backend.md)
 - [Farm Management App Developer](Technical_1_Farm_Management_App_Developer.md)
 
