@@ -16,7 +16,7 @@ Congratulations! You have progressed to our technical #1 challenge. In this chal
 Your task is to write a javascript function that accepts 3 parameters: **cipher_letter_1**, **cipher_letter_2**, and **encoded_message**. In the example given above, cipher_letter_1 = E, cipher_letter_2 = X, and encoded_message = ZNYX. The function should then return a **decoded_message** based on the ruleset described above. In the example given above, the returned decoded_message would be "CODE". Once you have built your code-ified decoder ring, you will use it to help discover the next steps in our hiring process. Here is a piece of code you can copy to get you started:
 
 ```javascript
-function decode_message(cipherLetterOne, cipherLetterTwo, encodedMessage) {
+function decodeMessage(cipherLetterOne, cipherLetterTwo, encodedMessage) {
   let decodedMessage = "";
   // Your code goes here
   
